@@ -1,0 +1,167 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Lora', serif;
+  font-size: 14px;
+}
+img|{
+  max-width: 100%;
+}
+a:hover{
+  text-decoration: none;
+
+}
+.navbar-brand img{
+  width: 180px;
+}
+.nav-link{
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  transition: 0.5s;
+}
+.nav-link:hover{
+  color: green !important;
+  transition: 0.5s;
+}
+.hero-section{
+  background-color: #0D6EFD;
+}
+.hero-content {
+
+}
+.hero-content h1 {
+      font-size: 53px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+.hero-content h3{
+  font-size: 34px;
+    font-weight: 400;
+    margin-bottom: 0px;
+    padding: 15px 0px;
+}
+.hero-content ul{
+      padding: 0px 20px;
+}
+.hero-content ul li{
+      font-size: 16px;
+    font-weight: 400;
+    padding: 5px 0px;
+}
+.custom{
+ background: #FF764B;
+  
+  padding: 10px 65px;
+  color: white;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 0;
+  border:1px solid  #FF764B;;
+}
+ .hero-content  .custom:hover{
+  background-color: transparent;
+   border-color: #FF764B;
+
+}
+.custom:focus{
+  outline: 0 !important;
+}
+.ecommer-section{
+  background-color: #FAFAFA;
+
+}
+.ecommer-content h1{
+margin-bottom: 0px;
+font-size: 42px;
+font-weight: 700;
+color: #3BB44A;
+}
+.ecommer-content p{
+    padding: 15px 140px;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+.custom{
+  background-color: #3BB44A;
+  border-color: #3BB44A;
+}
+.custom:hover{
+  background-color: transparent;
+  border-color:#3BB44A;
+  color: black;
+}
+.about-content {
+  border:1px solid;
+  padding: 80px;
+  background-color: #00000005;
+}
+.about-content img{
+  width: 347px;
+}
+.about-section p{
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 0px;
+  padding: 20px 0px;
+  color: #000000b0;
+}
+.footer-section{
+  text-align: center;
+  background-color: #F2F1F1;
+
+}
+.footer-section h1{
+  font-size: 32px;
+  font-weight: 600;
+}
+.footer-section ul{
+  list-style: none;
+}
+.footer-section ul li{
+  padding-top: 20px;
+}
+.footer-section ul li a{
+  padding-top: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #000000b0;
+}
+.footer-section ul li a:hover{
+  color: orange;
+}
+
+
+.banner-content{}
+.banner-content h1{
+  font-size: 34px;
+    font-weight: 500;
+    margin-bottom: 26px;
+}
+.banner-content p{
+  font-size: 20px;
+    font-weight: 400;
+    color: #000000b0;
+}
+.banner-section img{
+  height: 600px;
+}
+.fuiture-content img{
+  height: 600px;
+}
+.fuiture-contentt h1{
+  font-size: 42px;
+  font-weight: 700;
+  padding-bottom: 30px;
+}
+.fuiture-content p{
+  font-size: 20px;
+  font-weight: 400;
+  
+}
